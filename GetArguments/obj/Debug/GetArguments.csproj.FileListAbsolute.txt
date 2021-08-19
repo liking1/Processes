@@ -1,0 +1,7 @@
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\02 Processes\Processes\GetArguments\bin\Debug\GetArguments.exe.config
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\02 Processes\Processes\GetArguments\bin\Debug\GetArguments.exe
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\02 Processes\Processes\GetArguments\bin\Debug\GetArguments.pdb
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\02 Processes\Processes\GetArguments\obj\Debug\GetArguments.csprojAssemblyReference.cache
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\02 Processes\Processes\GetArguments\obj\Debug\GetArguments.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\02 Processes\Processes\GetArguments\obj\Debug\GetArguments.exe
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\02 Processes\Processes\GetArguments\obj\Debug\GetArguments.pdb

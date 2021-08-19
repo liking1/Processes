@@ -1,0 +1,6 @@
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\02 Processes\Processes\ProcessMonitor\bin\Debug\ProcessMonitor.exe.config
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\02 Processes\Processes\ProcessMonitor\bin\Debug\ProcessMonitor.exe
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\02 Processes\Processes\ProcessMonitor\bin\Debug\ProcessMonitor.pdb
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\02 Processes\Processes\ProcessMonitor\obj\Debug\ProcessMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\02 Processes\Processes\ProcessMonitor\obj\Debug\ProcessMonitor.exe
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\02 Processes\Processes\ProcessMonitor\obj\Debug\ProcessMonitor.pdb

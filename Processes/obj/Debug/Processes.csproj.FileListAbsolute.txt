@@ -1,0 +1,7 @@
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\02 Processes\Processes\Processes\bin\Debug\Processes.exe.config
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\02 Processes\Processes\Processes\bin\Debug\Processes.exe
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\02 Processes\Processes\Processes\bin\Debug\Processes.pdb
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\02 Processes\Processes\Processes\obj\Debug\Processes.csprojAssemblyReference.cache
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\02 Processes\Processes\Processes\obj\Debug\Processes.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\02 Processes\Processes\Processes\obj\Debug\Processes.exe
+C:\Users\Vlad\Dropbox\Work\Step\3. Full-Time\12. System Programming\02 Processes\Processes\Processes\obj\Debug\Processes.pdb
